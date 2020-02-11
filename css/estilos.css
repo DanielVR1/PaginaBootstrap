@@ -1,0 +1,28 @@
+.titulo{
+    padding: 5px;
+    color: rgb(30, 204, 38);
+}
+
+.row img {
+    width: 36px;
+    height: 36px;
+}
+
+.contenedor{
+    padding: 20px;
+}
+
+.titulo2{
+    color: rgb(30, 204, 38);
+}
+
+.footer{
+    padding-bottom: 10px;
+}
+
+.sombra{
+    text-shadow: 1px 1px black;
+}
+.hover:hover{
+    box-shadow: 1px 1px gray;
+}
